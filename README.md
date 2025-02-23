@@ -1,6 +1,6 @@
 # Str v0.40
 ## Simple C++ string type with an optional local buffer, by Omar Cornut, cloud11665
-https://github.com/cloud11665/str
+https://github.com/Kristynpos/str
 
 ### License:
 &nbsp;&nbsp;&nbsp;&nbsp;This software is in the public domain. Where that dedication is not  
